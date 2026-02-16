@@ -4,8 +4,9 @@ public class OOPSBANNERAPP {
 		System.out.println(" **  ** "+" **   ** "+"*    **"+" **     ");
 		System.out.println("**    **"+"**     **"+"*    **"+" **      ");
 		System.out.println("**    **"+"**     **"+"**   **"+" *****   ");
-	      System.out.println("**    **"+"**     **"+" ***** "+"    **   ");
+	    System.out.println("**    **"+"**     **"+" ***** "+"    **   ");
 		System.out.println(" **  ** "+" **   ** "+"**     "+"    **   ");
 		System.out.println("   ***  "+"   ***   "+"**     "+" *****   ");
 }
+
 }
